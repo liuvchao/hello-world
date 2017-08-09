@@ -15,7 +15,7 @@ ls\TencentVideo_V3.9.0.6272_5050.apk
 
 C:\Documents and Settings\Administrator\Application Data\npm\node_modules
 
-Ìí¼ÓÏµÍ³±äÁ¿
+æ·»åŠ ç³»ç»Ÿå˜é‡
 
 ANDROID_HOME =  D:\Android\adt-bundle3\adt-bundle-windows-x86-20131030\sdk 
 
@@ -23,9 +23,10 @@ ANDROID_PLATFORM_TOOLS = D:\Android\adt-bundle3\adt-bundle-windows-x86-20131030\
 
  ANDROID_TOOLS = D:\Android\adt-bundle3\adt-bundle-windows-x86-20131030\sdk\tools 
 
-ÔÚpath ×îºó£¬Ìí¼Ó  ;%ANDROID_HOME% 
-windowÖĞÉèÖÃant»·¾³±äÁ¿£º
+åœ¨path æœ€åï¼Œæ·»åŠ   ;%ANDROID_HOME% 
+windowä¸­è®¾ç½®antç¯å¢ƒå˜é‡ï¼š
  ANT_HOME    D:/ant 1.6
  path    D:/ant 1.6/bin
  classpath    D:/ant 1.6/lib
 
+--add an end.
