@@ -1,0 +1,31 @@
+npm config set registry http://registry.npmjs.org/
+npm config set proxy http://172.20.0.2:8086
+npm config set proxy=http://172.20.0.2:8086
+npm config set https-proxy=http://172.20.0.2:8086
+
+npm install -g cordova
+
+D:\nodejs>npm install -g cordova
+
+install app
+D:\Android\android-sdk\platforms>adb install D:\Android\android-sdk\platform-too
+ls\TencentVideo_V3.9.0.6272_5050.apk
+
+
+
+C:\Documents and Settings\Administrator\Application Data\npm\node_modules
+
+添加系统变量
+
+ANDROID_HOME =  D:\Android\adt-bundle3\adt-bundle-windows-x86-20131030\sdk 
+
+ANDROID_PLATFORM_TOOLS = D:\Android\adt-bundle3\adt-bundle-windows-x86-20131030\sdk\platform-tools 
+
+ ANDROID_TOOLS = D:\Android\adt-bundle3\adt-bundle-windows-x86-20131030\sdk\tools 
+
+在path 最后，添加  ;%ANDROID_HOME% 
+window中设置ant环境变量：
+ ANT_HOME    D:/ant 1.6
+ path    D:/ant 1.6/bin
+ classpath    D:/ant 1.6/lib
+
